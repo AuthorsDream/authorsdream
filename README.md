@@ -26,4 +26,16 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=c71rhhxm4fab5h3z2a4qwejzc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
-<hr>
+<div align="center">
+  <img src="https://64.media.tumblr.com/fc2f88d40edecb341aac2c4073fb11d6/8425ca97106dc1d8-35/s250x400/9d3214c014f98474e7725b39ce85e3f7e9b99705.gifv" width="150"/>
+</div>
+<div align="center">
+  <img src="https://64.media.tumblr.com/fc2f88d40edecb341aac2c4073fb11d6/8425ca97106dc1d8-35/s250x400/9d3214c014f98474e7725b39ce85e3f7e9b99705.gifv" width="0"/>
+</div>
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/1102cc312d5858bac3e7a34b5931d873/0e777d5b489692d7-e3/s250x400/fea80e9ff8d088d1280b7b798c3034a3c8628f14.gifv" width="150"/> <img src="https://64.media.tumblr.com/92eff7b87a311c501e53f108ccb7a441/42540ca2670d96d0-e8/s250x400/71de2448d503220ea94ec3d2fb31fbfc35356172.gifv" width="150"/>
+</div>
+<div align="center">
+  <img src="https://64.media.tumblr.com/240ec320d0162e171142dc3773d37b93/af1d2bd09d335007-9b/s400x600/254456f22018d7970c579a83aad8f358d7f2f7a8.gifv" width="302"/>
+</div>
