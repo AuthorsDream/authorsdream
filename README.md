@@ -17,5 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=c71rhhxm4fab5h3z2a4qwejzc&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=890606&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)" width="100"/>
+
+[![Spotify]([https://novatorem-yourusername.vercel.app/api/spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=c71rhhxm4fab5h3z2a4qwejzc&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=890606&bar_color_cover=true))](https://github.com/kittinan/spotify-github-profile)
+
 </div>
