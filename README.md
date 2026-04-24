@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/AuthorsDream/authorsdream/blob/73be019bc6062d0d0fe9d857328e7f1a975e1ba8/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260420101508.png" width="550"/>
+  <img src="https://github.com/AuthorsDream/authorsdream/blob/3e272da3672e2ce8ba55b5c7d73481eb0d8e5b4c/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260424171551.png" width="600"/>
 </div>
 
 <div align="center">
