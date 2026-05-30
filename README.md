@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://github.com/AuthorsDream/authorsdream/blob/d2687508dab90327148dfb93af326c09cbe30f59/Tumblr_l_320564433784764.gif" width="607"/>
+  <img src="https://github.com/AuthorsDream/authorsdream/blob/d2687508dab90327148dfb93af326c09cbe30f59/Tumblr_l_320564433784764.gif" width="597"/>
 </div>
 
 
 
 <div align="center">
-  <img src="https://github.com/AuthorsDream/authorsdream/blob/73be019bc6062d0d0fe9d857328e7f1a975e1ba8/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260420101259.png" width="550"/>
+  <img src="https://github.com/AuthorsDream/authorsdream/blob/b78a6c1c96b8839e47783df6451a8360f4f5a6ac/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260530222351.png" width="550"/>
 </div>
 
 
 
 
 <div align="center">
-  <img src="https://github.com/AuthorsDream/authorsdream/blob/3e272da3672e2ce8ba55b5c7d73481eb0d8e5b4c/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260424171551.png" width="600"/>
+  <img src="https://github.com/AuthorsDream/authorsdream/blob/b78a6c1c96b8839e47783df6451a8360f4f5a6ac/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260424171551.png" width="600"/>
 </div>
 
 <div align="center">
