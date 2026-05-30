@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/AuthorsDream/authorsdream/blob/b78a6c1c96b8839e47783df6451a8360f4f5a6ac/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260530222351.png" width="550"/>
+  <img src="https://github.com/AuthorsDream/authorsdream/blob/007bae15d188216b4c123f498af1fd34292dcfc0/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260530223529.png" width="554"/>
 </div>
 
 
