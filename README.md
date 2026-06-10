@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/AuthorsDream/authorsdream/blob/24120fe404d55c00c1d5d09b51a566ff7c90af87/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260610234502.png" width="597"/>
+  <img src="https://github.com/AuthorsDream/authorsdream/blob/c9c587fd432673856ae43397b9deceb4fa52fdd7/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260610234502.png" width="597"/>
 </div>
 
 
@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/AuthorsDream/authorsdream/blob/24120fe404d55c00c1d5d09b51a566ff7c90af87/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260610234444.png" width="620"/>
+  <img src="https://github.com/AuthorsDream/authorsdream/blob/c9c587fd432673856ae43397b9deceb4fa52fdd7/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260610234444.png" width="620"/>
 </div>
 
 
