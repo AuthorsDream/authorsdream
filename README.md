@@ -1,12 +1,8 @@
 <div align="center">
-  <img src="https://github.com/AuthorsDream/authorsdream/blob/d2687508dab90327148dfb93af326c09cbe30f59/Tumblr_l_320564433784764.gif" width="597"/>
+  <img src="https://github.com/AuthorsDream/authorsdream/blob/178d5fbd3c80fc35563f829d9028b40cd154dae9/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260610233413.png" width="597"/>
 </div>
 
 
-
-<div align="center">
-  <img src="https://github.com/AuthorsDream/authorsdream/blob/007bae15d188216b4c123f498af1fd34292dcfc0/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260530223529.png" width="554"/>
-</div>
 
 
 
