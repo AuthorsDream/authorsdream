@@ -1,5 +1,5 @@
-www<div align="center">
-  <img src="https://64.media.tumblr.com/240ec320d0162e171142dc3773d37b93/af1d2bd09d335007-9b/s400x600/254456f22018d7970c579a83aad8f358d7f2f7a8.gifv" width="585"/>
+<div align="center">
+  <img src="https://github.com/AuthorsDream/authorsdream/blob/1742a6f5734a829bff8ebe6a91c4fe4db2569510/Tumblr_l_320564433784764.gif" width="600"/>
 </div>
 
 
@@ -19,9 +19,7 @@ www<div align="center">
   <img src="https://github.com/AuthorsDream/authorsdream/blob/24120fe404d55c00c1d5d09b51a566ff7c90af87/Ba%C5%9Fl%C4%B1ks%C4%B1z59_20260610234444.png" width="620"/>
 </div>
 
-<div align="center">
-  <img src="https://64.media.tumblr.com/514b184b4bdc176b2fbbd954e2fec734/c855523a32c81f23-51/s400x600/9a4478ce271d11234991ce458d1230efaf3cc21c.gifv" width="0"/>
-</div>
+
 
 <div align="center">
   <img src="https://64.media.tumblr.com/240ec320d0162e171142dc3773d37b93/af1d2bd09d335007-9b/s400x600/254456f22018d7970c579a83aad8f358d7f2f7a8.gifv" width="585"/>
